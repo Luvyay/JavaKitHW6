@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Seminar6Homework.Main</mainClass>
+                            <mainClass>ThreeDoors.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
